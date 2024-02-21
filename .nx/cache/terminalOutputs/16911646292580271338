@@ -1,0 +1,1498 @@
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m                     [2m | [22mvendor          [2m | [22m  [96m3.53 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m         [2m | [22mstyles          [2m | [22m[96m497.04 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m                  [2m | [22mpolyfills       [2m | [22m[96m333.06 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m [96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                       [2m | [22mmain            [2m | [22m  [96m5.84 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                             [2m | [22m[1mInitial Total[22m   [2m | [22m  [1m4.36 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m [96m20.20 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:34:01.228Z[39m[37m[22m - Hash: [1m[37m9fefd29d7103ff6e[39m[37m[22m - Time: [1m[37m2549[39m[37m[22mms[0m[39m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.22 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:34:46.408Z[39m[37m[22m - Hash: [1m[37mc590a59d9f400f1f[39m[37m[22m - Time: [1m[37m1113[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.25 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:34:52.597Z[39m[37m[22m - Hash: [1m[37mc031d6e516c6c371[39m[37m[22m - Time: [1m[37m166[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.25 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:35:13.216Z[39m[37m[22m - Hash: [1m[37ma371010d5d3f18d5[39m[37m[22m - Time: [1m[37m240[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.26 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:35:38.503Z[39m[37m[22m - Hash: [1m[37mbaf6883c7070aa4c[39m[37m[22m - Time: [1m[37m482[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.28 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:35:45.604Z[39m[37m[22m - Hash: [1m[37mfb70e3a418517a2b[39m[37m[22m - Time: [1m[37m237[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:37:04.028Z[39m[37m[22m - Hash: [1m[37m9f5a23cafbf907f6[39m[37m[22m - Time: [1m[37m498[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.32 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:37:10.474Z[39m[37m[22m - Hash: [1m[37mae304d5b3d2cbdb1[39m[37m[22m - Time: [1m[37m191[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.33 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:37:34.214Z[39m[37m[22m - Hash: [1m[37m66e1c41e675ae9ac[39m[37m[22m - Time: [1m[37m249[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.35 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:38:44.697Z[39m[37m[22m - Hash: [1m[37m9da544811a94a6af[39m[37m[22m - Time: [1m[37m244[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.38 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T12:39:17.010Z[39m[37m[22m - Hash: [1m[37m0646e8dcc43bbb92[39m[37m[22m - Time: [1m[37m277[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:52:11.260Z[39m[37m[22m - Hash: [1m[37m0cd375be2bff76a4[39m[37m[22m - Time: [1m[37m257[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:54:13.199Z[39m[37m[22m - Hash: [1m[37mb670bef2b6ebe012[39m[37m[22m - Time: [1m[37m327[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:55:02.603Z[39m[37m[22m - Hash: [1m[37mc512553707445f2d[39m[37m[22m - Time: [1m[37m211[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:55:19.930Z[39m[37m[22m - Hash: [1m[37m50ed3b10180381ea[39m[37m[22m - Time: [1m[37m287[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.42 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:55:58.888Z[39m[37m[22m - Hash: [1m[37m39ed8aa635d2b164[39m[37m[22m - Time: [1m[37m244[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.41 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:56:16.258Z[39m[37m[22m - Hash: [1m[37m3f9c2865a7255767[39m[37m[22m - Time: [1m[37m263[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.39 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T14:57:18.134Z[39m[37m[22m - Hash: [1m[37m3b9ca0d5749e6b7e[39m[37m[22m - Time: [1m[37m240[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.39 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:01:15.002Z[39m[37m[22m - Hash: [1m[37m007a8ed2e882dbe3[39m[37m[22m - Time: [1m[37m202[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m20.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:01:29.934Z[39m[37m[22m - Hash: [1m[37m1fd153af6819c793[39m[37m[22m - Time: [1m[37m140[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m21.56 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:23:11.473Z[39m[37m[22m - Hash: [1m[37mf94f9ced64cb3e9d[39m[37m[22m - Time: [1m[37m227[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m21.56 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:23:15.850Z[39m[37m[22m - Hash: [1m[37m583ad12a4df1c307[39m[37m[22m - Time: [1m[37m167[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m21.63 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:28:26.658Z[39m[37m[22m - Hash: [1m[37mdcb2b1ad7710a669[39m[37m[22m - Time: [1m[37m193[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:29:35.845Z[39m[37m[22m - Hash: [1m[37m98904763a5bbf8fc[39m[37m[22m - Time: [1m[37m283[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:32:16.174Z[39m[37m[22m - Hash: [1m[37m4d8c12312742bcec[39m[37m[22m - Time: [1m[37m259[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:32:56.352Z[39m[37m[22m - Hash: [1m[37m2b857685e2c085dc[39m[37m[22m - Time: [1m[37m264[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxListForm'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m17[0m:[93m16[0m[39m[22m
+[1m[31m    [7m17[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.64 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:37:22.988Z[39m[37m[22m - Hash: [1m[37m7688d859dc036d98[39m[37m[22m - Time: [1m[37m220[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxListForm'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m18[0m:[93m16[0m[39m[22m
+[1m[31m    [7m18[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:37:27.624Z[39m[37m[22m - Hash: [1m[37m09f0f41658a18a97[39m[37m[22m - Time: [1m[37m174[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxFormArray'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m18[0m:[93m16[0m[39m[22m
+[1m[31m    [7m18[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.35 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:45:19.894Z[39m[37m[22m - Hash: [1m[37m4ad3946d4afda303[39m[37m[22m - Time: [1m[37m289[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxFormArray'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m18[0m:[93m16[0m[39m[22m
+[1m[31m    [7m18[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.30 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T15:56:39.723Z[39m[37m[22m - Hash: [1m[37md13ec4e8dc245818[39m[37m[22m - Time: [1m[37m202[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxFormArray'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m17[0m:[93m16[0m[39m[22m
+[1m[31m    [7m17[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.48 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:04:06.229Z[39m[37m[22m - Hash: [1m[37m798388c134021fd1[39m[37m[22m - Time: [1m[37m232[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxListForm'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m17[0m:[93m16[0m[39m[22m
+[1m[31m    [7m17[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m26.48 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:04:48.019Z[39m[37m[22m - Hash: [1m[37m4c249ccda5bafc87[39m[37m[22m - Time: [1m[37m181[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m22[0m:[93m32[0m - [91merror[0m[90m TS2551: [0mProperty 'getCheckboxForm' does not exist on type 'BuilderComponent'. Did you mean 'getCheckboxListForm'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m22[0m             <form [formGroup]="getCheckboxForm(i)">div.</form>[39m[22m
+[1m[31m[7m  [0m [91m                               ~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m17[0m:[93m16[0m[39m[22m
+[1m[31m    [7m17[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m29.49 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:08:01.710Z[39m[37m[22m - Hash: [1m[37m4c0ac60f220fc6c0[39m[37m[22m - Time: [1m[37m224[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m29.40 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:08:49.804Z[39m[37m[22m - Hash: [1m[37m507e031d3c8f0d56[39m[37m[22m - Time: [1m[37m277[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m29.43 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:08:56.958Z[39m[37m[22m - Hash: [1m[37m32606742892af519[39m[37m[22m - Time: [1m[37m201[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m29.46 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:09:18.357Z[39m[37m[22m - Hash: [1m[37mc36ea7b6a65d1207[39m[37m[22m - Time: [1m[37m260[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m30.09 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:11:57.740Z[39m[37m[22m - Hash: [1m[37me64d727dfc8b7a99[39m[37m[22m - Time: [1m[37m275[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m30.31 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:13:24.211Z[39m[37m[22m - Hash: [1m[37m7390b9d16e693552[39m[37m[22m - Time: [1m[37m273[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m30.34 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:15:02.320Z[39m[37m[22m - Hash: [1m[37m3375a362bf08e2ea[39m[37m[22m - Time: [1m[37m319[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m30.53 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:16:57.480Z[39m[37m[22m - Hash: [1m[37m30f5dd81be0a9010[39m[37m[22m - Time: [1m[37m212[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m30.53 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:17:16.241Z[39m[37m[22m - Hash: [1m[37m3dc9903798ef11a9[39m[37m[22m - Time: [1m[37m252[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m31.09 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:18:16.525Z[39m[37m[22m - Hash: [1m[37mb439660a9a5e7b2d[39m[37m[22m - Time: [1m[37m260[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m31.29 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:19:19.404Z[39m[37m[22m - Hash: [1m[37ma409c5fba150f2a0[39m[37m[22m - Time: [1m[37m232[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m31.36 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:20:12.864Z[39m[37m[22m - Hash: [1m[37meb8bdc19dac8e45a[39m[37m[22m - Time: [1m[37m265[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m31.73 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:21:53.954Z[39m[37m[22m - Hash: [1m[37m17093c52f4090887[39m[37m[22m - Time: [1m[37m284[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m31.73 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:26:03.823Z[39m[37m[22m - Hash: [1m[37m0c28a7b0c8f6138f[39m[37m[22m - Time: [1m[37m250[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m32.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:33:54.133Z[39m[37m[22m - Hash: [1m[37m70a711b9bf15e61d[39m[37m[22m - Time: [1m[37m288[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.57 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:35:03.534Z[39m[37m[22m - Hash: [1m[37m0a053dd898739986[39m[37m[22m - Time: [1m[37m267[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.63 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:39:12.212Z[39m[37m[22m - Hash: [1m[37m15cfe2f87ca92e43[39m[37m[22m - Time: [1m[37m302[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.63 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:39:31.833Z[39m[37m[22m - Hash: [1m[37m6b9491e1bc9d0f81[39m[37m[22m - Time: [1m[37m287[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.63 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:39:46.843Z[39m[37m[22m - Hash: [1m[37md964679fe16c4b0b[39m[37m[22m - Time: [1m[37m232[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.63 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:40:32.814Z[39m[37m[22m - Hash: [1m[37mee19f7bc32f23c5c[39m[37m[22m - Time: [1m[37m249[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.77 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:42:22.461Z[39m[37m[22m - Hash: [1m[37md3e1c28d5abca495[39m[37m[22m - Time: [1m[37m296[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/add-question-modal/add-question-modal.component.ts[0m:[93m71[0m:[93m10[0m - [91merror[0m[90m TS2339: [0mProperty 'subs' does not exist on type 'AddQuestionModalComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m71[0m     this.subs.push(sub);[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.89 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:42:34.091Z[39m[37m[22m - Hash: [1m[37m5d62f88bbfb4eeee[39m[37m[22m - Time: [1m[37m192[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m33.89 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:42:40.654Z[39m[37m[22m - Hash: [1m[37m8aab19482e65e4b0[39m[37m[22m - Time: [1m[37m195[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.22 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:49:07.383Z[39m[37m[22m - Hash: [1m[37me55c95cee3d8f1e1[39m[37m[22m - Time: [1m[37m381[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.09 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:50:21.381Z[39m[37m[22m - Hash: [1m[37m3626ce03713425a7[39m[37m[22m - Time: [1m[37m274[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m3[0m:[93m40[0m - [91merror[0m[90m TS2339: [0mProperty 'questionList' does not exist on type 'BuilderComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m     <ng-container *ngFor="let quest of questionList; let i = index">[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m18[0m:[93m34[0m - [91merror[0m[90m TS2339: [0mProperty 'answerList' does not exist on type 'BuilderComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m18[0m                   [formControl]="answerList.at(i)"[39m[22m
+[1m[31m[7m  [0m [91m                                 ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m68[0m:[93m16[0m - [91merror[0m[90m TS2339: [0mProperty 'answerList' does not exist on type 'BuilderComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m68[0m         *ngIf="answerList.length"[39m[22m
+[1m[31m[7m  [0m [91m               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m69[0m:[93m21[0m - [91merror[0m[90m TS2339: [0mProperty 'answerList' does not exist on type 'BuilderCompo[39m[22m[1m[31mnent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m69[0m         [disabled]="answerList.invalid"[39m[22m
+[1m[31m[7m  [0m [91m                    ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.09 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:50:51.359Z[39m[37m[22m - Hash: [1m[37m931f495f19ceb2df[39m[37m[22m - Time: [1m[37m180[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m3[0m:[93m40[0m - [91merror[0m[90m TS2339: [0mProperty 'questionList' does not exist on type 'BuilderComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m     <ng-container *ngFor="let quest of questionList; let i = index">[39m[22m
+[1m[31m[7m [0m [91m                                       ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m18[0m:[93m34[0m - [91merror[0m[90m TS2339: [0mProperty 'answerList' does not exist on type 'BuilderComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m18[0m                   [formControl]="answerList.at(i)"[39m[22m
+[1m[31m[7m  [0m [91m                                 ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m68[0m:[93m16[0m - [91merror[0m[90m TS2339: [0mProperty 'answerList' does not exist on type 'BuilderComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m68[0m         *ngIf="answerList.length"[39m[22m
+[1m[31m[7m  [0m [91m               ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.html[0m:[93m69[0m:[93m21[0m - [91merror[0m[90m TS2339: [0mProperty 'answerList' does not exist on type 'BuilderCompo[39m[22m[1m[31mnent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m69[0m         [disabled]="answerList.invalid"[39m[22m
+[1m[31m[7m  [0m [91m                    ~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/builder.component.ts[0m:[93m21[0m:[93m16[0m[39m[22m
+[1m[31m    [7m21[0m   templateUrl: './builder.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component BuilderComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.22 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:51:36.348Z[39m[37m[22m - Hash: [1m[37mc8e75ed2b6dabc01[39m[37m[22m - Time: [1m[37m209[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m35.29 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:53:09.639Z[39m[37m[22m - Hash: [1m[37m6015ea55c09488cf[39m[37m[22m - Time: [1m[37m211[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m35.29 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:53:26.802Z[39m[37m[22m - Hash: [1m[37m260a2d5a8e10131d[39m[37m[22m - Time: [1m[37m186[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m35.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:53:55.681Z[39m[37m[22m - Hash: [1m[37mc9d69d693c82953c[39m[37m[22m - Time: [1m[37m278[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m35.94 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:55:18.120Z[39m[37m[22m - Hash: [1m[37m9452babac8bee11e[39m[37m[22m - Time: [1m[37m201[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m35.94 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:56:26.223Z[39m[37m[22m - Hash: [1m[37m55ce9489fa41ebdd[39m[37m[22m - Time: [1m[37m222[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m36.46 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:57:04.906Z[39m[37m[22m - Hash: [1m[37mb5f618174c08a5dd[39m[37m[22m - Time: [1m[37m135[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m36.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:57:15.571Z[39m[37m[22m - Hash: [1m[37me1f2de66d7eac1b3[39m[37m[22m - Time: [1m[37m221[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m36.53 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:58:01.229Z[39m[37m[22m - Hash: [1m[37mcce6e37a2a712f89[39m[37m[22m - Time: [1m[37m187[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m36.53 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T16:58:25.085Z[39m[37m[22m - Hash: [1m[37m6ea283d5a2c11698[39m[37m[22m - Time: [1m[37m163[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.12 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:01:40.444Z[39m[37m[22m - Hash: [1m[37m173b82b4c0f96706[39m[37m[22m - Time: [1m[37m327[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/builder/builder.component.ts[39m[31m[0m:[0m[93m139:25-38[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/form.service.ts[39m[31m[0m:[0m[93m15:23-46[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './builder/add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/form.service.ts[39m[31m[0m:[0m[93m18:23-49[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './builder/add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.ts[0m:[93m6[0m:[93m3[0m - [91merror[0m[90m TS2305: [0mModule '"./add-question-modal/add-question-modal.component"' has no exported member 'Question'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m   Question,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/builder/builder.component.ts[0m:[93m7[0m:[93m3[0m - [91merror[0m[90m TS2459: [0mModule '"./add-question-modal/add-question-modal.component"' declares 'QuestionTypes' locally, but it is not exported.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m   QuestionTypes,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/add-question-modal/add-question-modal.component.ts[0m:[93m5[0m:[93m10[0m[39m[22m
+[1m[31m    [7m5[0m import { QuestionTypes } from '../../form.model';[39m[22m
+[1m[31m    [7m [0m [96m         ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'QuestionTypes' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m3[0m:[93m3[0m - [91merror[0m[90m TS2305: [0mModule '"./builder/add-question-modal/add-question-modal.component"' has no exported member 'Question'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m   Question,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[39m[22m[1m[31m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m4[0m:[93m3[0m - [91merror[0m[90m TS2459: [0mModule '"./builder/add-question-modal/add-question-modal.component"' declares 'QuestionTypes' locally, but it is not exported.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m   QuestionTypes,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/add-question-modal/add-question-modal.component.ts[0m:[93m5[0m:[93m10[0m[39m[22m
+[1m[31m    [7m5[0m import { QuestionTypes } from '../../form.model';[39m[22m
+[1m[31m    [7m [0m [96m         ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'QuestionTypes' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS7006: [0mParameter 'option' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m           ?.map((option) => {[39m[22m
+[1m[31m[7m  [0m [91m                 ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m36[0m:[93m20[0m - [91merror[0m[90m TS7006: [0mParameter 'a' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m           .reduce((a, b) => ({ ...a, ...b })) || {};[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m36[0m:[93m23[0m - [91merror[0m[90m TS7006: [0mParameter 'b' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m           .reduce((a, b) => ({ ...a, ...b })) || {};[39m[22m
+[1m[31m[7m  [0m [91m                      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m45[0m:[93m23[0m - [91merror[0m[90m TS7006: [0mParameter 'otherSelected' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m45[0m           .subscribe((otherSelected) => {[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.20 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:01:51.892Z[39m[37m[22m - Hash: [1m[37m44818fe193979b4e[39m[37m[22m - Time: [1m[37m226[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/form.service.ts[39m[31m[0m:[0m[93m15:23-46[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './builder/add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/form.service.ts[39m[31m[0m:[0m[93m18:23-49[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './builder/add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m3[0m:[93m3[0m - [91merror[0m[90m TS2305: [0mModule '"./builder/add-question-modal/add-question-modal.component"' has no exported member 'Question'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m   Question,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m4[0m:[93m3[0m - [91merror[0m[90m TS2459: [0mModule '"./builder/add-question-modal/add-question-modal.component"' declares 'QuestionTypes' locally, but it is not exported.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m   QuestionTypes,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/add-question-modal/add-question-modal.component.ts[0m:[93m5[0m:[93m10[0m[39m[22m
+[1m[31m    [7m5[0m import { QuestionTypes } from '../../form.model';[39m[22m
+[1m[31m    [7m [0m [96m         ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'QuestionTypes' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS7006: [0mParameter 'option' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m           ?.map((option) => {[39m[22m
+[1m[31m[7m  [0m [91m                 ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m36[0m:[93m20[0m - [91merror[0m[90m TS7006: [0mParameter 'a' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m           .reduce((a, b) => ({ ...a, ...b })) || {};[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/[39m[22m[1m[31mform.service.ts[0m:[93m36[0m:[93m23[0m - [91merror[0m[90m TS7006: [0mParameter 'b' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m           .reduce((a, b) => ({ ...a, ...b })) || {};[39m[22m
+[1m[31m[7m  [0m [91m                      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m45[0m:[93m23[0m - [91merror[0m[90m TS7006: [0mParameter 'otherSelected' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m45[0m           .subscribe((otherSelected) => {[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.20 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:01:59.590Z[39m[37m[22m - Hash: [1m[37m7ddd7b3075664fc8[39m[37m[22m - Time: [1m[37m148[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/form.service.ts[39m[31m[0m:[0m[93m15:23-46[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './builder/add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./src/app/form/form.service.ts[39m[31m[0m:[0m[93m18:23-49[39m[31m[0m - [0m[91mError: [39m[31m[0mexport 'QuestionTypes' (imported as 'QuestionTypes') was not found in './builder/add-question-modal/add-question-modal.component' (possible exports: AddQuestionModalComponent)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m3[0m:[93m3[0m - [91merror[0m[90m TS2305: [0mModule '"./builder/add-question-modal/add-question-modal.component"' has no exported member 'Question'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m   Question,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m4[0m:[93m3[0m - [91merror[0m[90m TS2459: [0mModule '"./builder/add-question-modal/add-question-modal.component"' declares 'QuestionTypes' locally, but it is not exported.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m   QuestionTypes,[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/builder/add-question-modal/add-question-modal.component.ts[0m:[93m5[0m:[93m10[0m[39m[22m
+[1m[31m    [7m5[0m import { QuestionTypes } from '../../form.model';[39m[22m
+[1m[31m    [7m [0m [96m         ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'QuestionTypes' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m31[0m:[93m18[0m - [91merror[0m[90m TS7006: [0mParameter 'option' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m           ?.map((option) => {[39m[22m
+[1m[31m[7m  [0m [91m                 ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m36[0m:[93m20[0m - [91merror[0m[90m TS7006: [0mParameter 'a' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m           .reduce((a, b) => ({ ...a, ...b })) || {};[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/[39m[22m[1m[31mform.service.ts[0m:[93m36[0m:[93m23[0m - [91merror[0m[90m TS7006: [0mParameter 'b' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m           .reduce((a, b) => ({ ...a, ...b })) || {};[39m[22m
+[1m[31m[7m  [0m [91m                      ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/form.service.ts[0m:[93m45[0m:[93m23[0m - [91merror[0m[90m TS7006: [0mParameter 'otherSelected' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m45[0m           .subscribe((otherSelected) => {[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.02 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:02:14.789Z[39m[37m[22m - Hash: [1m[37m7cbb933875712c12[39m[37m[22m - Time: [1m[37m223[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.02 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:02:43.275Z[39m[37m[22m - Hash: [1m[37mf323c71e87b7c64f[39m[37m[22m - Time: [1m[37m232[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.21 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:03:01.870Z[39m[37m[22m - Hash: [1m[37m82ff90a387d63895[39m[37m[22m - Time: [1m[37m177[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m37.29 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:04:47.870Z[39m[37m[22m - Hash: [1m[37m7b857f029f065e5c[39m[37m[22m - Time: [1m[37m166[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m41.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:05:04.232Z[39m[37m[22m - Hash: [1m[37m595ee7b998fe9f71[39m[37m[22m - Time: [1m[37m168[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m41.16 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:08:41.735Z[39m[37m[22m - Hash: [1m[37m2a1a1efc8093223c[39m[37m[22m - Time: [1m[37m207[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/answers/answers.component.html[0m:[93m11[0m:[93m19[0m - [91merror[0m[90m TS2339: [0mProperty 'getParagraphAnswer' does not exist on type 'AnswersComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m             <p>{{ getParagraphAnswer(i) }}</p>[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/answers/answers.component.ts[0m:[93m8[0m:[93m16[0m[39m[22m
+[1m[31m    [7m8[0m   templateUrl: './answers.component.html',[39m[22m
+[1m[31m    [7m [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component AnswersComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/answers/answers.component.html[0m:[93m16[0m:[93m17[0m - [91merror[0m[90m TS2339: [0mProperty 'getParagraphAnswer' does not exist on type 'AnswersComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m16[0m           <p>{{ getParagraphAnswer(i) }}</p>[39m[22m
+[1m[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/answers/answers.component.ts[0m:[93m8[0m:[93m16[0m[39m[22m
+[1m[31m    [7m8[0m   templateUrl: './answers.component.html',[39m[22m
+[1m[31m    [7m [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component AnswersComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m41.16 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:09:25.680Z[39m[37m[22m - Hash: [1m[37m156d45ba94e718e4[39m[37m[22m - Time: [1m[37m154[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/answers/answers.component.html[0m:[93m11[0m:[93m19[0m - [91merror[0m[90m TS2339: [0mProperty 'getParagraphAnswer' does not exist on type 'AnswersComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m             <p>{{ getParagraphAnswer(i) }}</p>[39m[22m
+[1m[31m[7m  [0m [91m                  ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/answers/answers.component.ts[0m:[93m8[0m:[93m16[0m[39m[22m
+[1m[31m    [7m8[0m   templateUrl: './answers.component.html',[39m[22m
+[1m[31m    [7m [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component AnswersComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96msrc/app/form/answers/answers.component.html[0m:[93m16[0m:[93m17[0m - [91merror[0m[90m TS2339: [0mProperty 'getParagraphAnswer' does not exist on type 'AnswersComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m16[0m           <p>{{ getParagraphAnswer(i) }}</p>[39m[22m
+[1m[31m[7m  [0m [91m                ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96msrc/app/form/answers/answers.component.ts[0m:[93m8[0m:[93m16[0m[39m[22m
+[1m[31m    [7m8[0m   templateUrl: './answers.component.html',[39m[22m
+[1m[31m    [7m [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component AnswersComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m43.88 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:10:15.236Z[39m[37m[22m - Hash: [1m[37m103852cbc0580b8f[39m[37m[22m - Time: [1m[37m181[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m43.88 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:10:40.760Z[39m[37m[22m - Hash: [1m[37medf94aa8820badd9[39m[37m[22m - Time: [1m[37m243[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m43.99 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:13:53.519Z[39m[37m[22m - Hash: [1m[37m2498fdca34a144fc[39m[37m[22m - Time: [1m[37m186[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m44.00 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:14:45.635Z[39m[37m[22m - Hash: [1m[37m6aa47f62bcb80c4a[39m[37m[22m - Time: [1m[37m216[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m44.26 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:16:30.613Z[39m[37m[22m - Hash: [1m[37me5806faee8b9d8db[39m[37m[22m - Time: [1m[37m273[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m           [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                    [2m | [22mruntime         [2m | [22m[96m12.66 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m              [2m | [22m[1mNames[22m           [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92msrc_app_form_form_module_ts.js[39m[37m[2m | [22mform-form-module[2m | [22m[96m44.33 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-02-21T17:17:23.823Z[39m[37m[22m - Hash: [1m[37m95474b54f549b37c[39m[37m[22m - Time: [1m[37m235[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

@@ -1,0 +1,97 @@
+<div class="modal-header">
+  <h4>Add New Question</h4>
+</div>
+
+<div class="modal-body">
+  <form [formGroup]="questionForm">
+    <div class="row mb-2">
+      <div class="col-12">
+        <label>Question *</label>
+        <input
+          class="form-control"
+          type="text"
+          [maxLength]="1024"
+          placeholder="Type question here"
+          formControlName="question"
+        />
+      </div>
+    </div>
+
+    <div class="row mb-2">
+      <div class="col-12">
+        <label>Select question type</label>
+        <select class="form-select" formControlName="type">
+          <option [value]="QuestionTypes.Paragraph">Paragraph</option>
+          <option [value]="QuestionTypes.CheckBoxList">Checkbox List</option>
+        </select>
+      </div>
+    </div>
+
+    <ng-container
+      *ngIf="questionForm.value.type === QuestionTypes.CheckBoxList"
+    >
+      <ng-container
+        formArrayName="optionList"
+        *ngFor="let option of optionListCtrl.controls; let i = index"
+      >
+        <div class="row mb-2">
+          <div class="col-12">
+            <input
+              class="form-control"
+              type="text"
+              [maxLength]="1024"
+              [formControlName]="i"
+              placeholder="Enter Option Title"
+            />
+          </div>
+        </div>
+      </ng-container>
+
+      <div class="row mb-2">
+        <div class="col-12">
+          <button
+            class="btn btn-light"
+            [disabled]="!canAddAnswer"
+            (click)="addAnswerForCheckbox(); $event.preventDefault()"
+          >
+            Add another option
+          </button>
+        </div>
+      </div>
+
+      <div class="row mb-2">
+        <div class="col-12">
+          <input
+            id="allowed-other-answer-checkbox"
+            type="checkbox"
+            formControlName="allowOtherAnswer"
+          />
+          <label for="required-checkbox">
+            Allow user to specify their own answer
+          </label>
+        </div>
+      </div>
+    </ng-container>
+
+    <div class="row mb-2">
+      <div class="col-12">
+        <input
+          id="required-checkbox"
+          type="checkbox"
+          formControlName="required"
+        />
+        <label for="required-checkbox">This field is required</label>
+      </div>
+    </div>
+  </form>
+</div>
+
+<div class="modal-footer">
+  <button
+    class="btn btn-outline-primary"
+    [disabled]="questionForm.invalid"
+    (click)="submitQuestion(); $event.preventDefault()"
+  >
+    Submit
+  </button>
+</div>

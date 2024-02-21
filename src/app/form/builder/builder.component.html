@@ -1,0 +1,87 @@
+<div class="card">
+  <div class="card-body">
+    <ng-container *ngFor="let quest of questionList; let i = index">
+      <div class="card mb-2">
+        <div class="card-header">
+          <h5>
+            {{ quest.question }}
+            <span *ngIf="quest.required" class="text-danger">*</span>
+          </h5>
+        </div>
+
+        <div class="card-body">
+          <ng-container *ngIf="quest.type === QuestionTypes.Paragraph">
+            <div class="row">
+              <div class="col-12">
+                <textarea
+                  class="form-control"
+                  [formControl]="answerList.at(i)"
+                  cols="3"
+                ></textarea>
+              </div>
+            </div>
+          </ng-container>
+
+          <ng-container *ngIf="quest.type === QuestionTypes.CheckBoxList">
+            <form [formGroup]="getCheckboxListForm(i)">
+              <div *ngFor="let option of quest.optionList" class="row">
+                <div class="col-12 mb-2">
+                  <input
+                    [id]="'builder-checkbox-' + option"
+                    type="checkbox"
+                    [formControlName]="option"
+                  />
+                  <label [attr.for]="'builder-checkbox-' + option">
+                    {{ option }}
+                  </label>
+                </div>
+              </div>
+
+              <div *ngIf="quest.allowOtherAnswer">
+                <div class="row">
+                  <div class="col-12 mb-1">
+                    <input
+                      id="builder-checkbox-other"
+                      type="checkbox"
+                      [formControlName]="'other'"
+                    />
+                    <label for="builder-checkbox-other"> Other </label>
+                  </div>
+
+                  <div class="col-12">
+                    <input
+                      class="form-control"
+                      type="text"
+                      [formControlName]="'otherAnswer'"
+                      placeholder="Enter Other Answer"
+                    />
+                  </div>
+                </div>
+              </div>
+            </form>
+          </ng-container>
+        </div>
+      </div>
+    </ng-container>
+
+    <button
+      class="btn btn-primary"
+      (click)="openAddQuestionModal(); $event.preventDefault()"
+    >
+      Add New Question
+    </button>
+  </div>
+
+  <div class="card-footer">
+    <div class="w-100 d-flex justify-content-end">
+      <button
+        *ngIf="answerList.length"
+        [disabled]="answerList.invalid"
+        class="btn btn-outline-secondary"
+        (click)="reviewUserAnswers(); $event.preventDefault()"
+      >
+        Review My Answers
+      </button>
+    </div>
+  </div>
+</div>

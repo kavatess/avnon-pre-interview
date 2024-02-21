@@ -1,0 +1,40 @@
+<div class="card">
+  <div class="card-body">
+    <ng-container *ngFor="let quest of formService.questionList; let i = index">
+      <div class="card">
+        <div class="card-header">
+          {{ quest.question }}
+        </div>
+
+        <div class="card-body">
+          <ng-container *ngIf="quest.type === QuestionTypes.Paragraph">
+            <p>{{ getAnswer(i) }}</p>
+          </ng-container>
+
+          <ng-container *ngIf="quest.type === QuestionTypes.CheckBoxList">
+            <ul>
+              <ng-container *ngFor="let option of quest.optionList">
+                <ng-container *ngIf="getAnswer(i)[option]">
+                  <li>{{ option }}</li>
+                </ng-container>
+              </ng-container>
+
+              <ng-container *ngIf="getAnswer(i)['other']">
+                <li>Other: {{ getAnswer(i)['otherAnswer'] }}</li>
+              </ng-container>
+            </ul>
+          </ng-container>
+        </div>
+      </div>
+    </ng-container>
+  </div>
+
+  <div class="card-footer">
+    <button
+      class="btn btn-outline-secondary"
+      (click)="backToFormBuilder(); $event.preventDefault()"
+    >
+      Back to Form Builder
+    </button>
+  </div>
+</div>
