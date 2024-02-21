@@ -7,7 +7,7 @@
 
 ## Start the app
 
-To start the development server run `nx serve avnon-pre-interview`. Open your browser and navigate to http://localhost:4200/. Happy coding!
+To start the development server, just run `npm start`. Open your browser and navigate to http://localhost:4200/. Happy coding!
 
 
 ## Generate code
