@@ -24,14 +24,17 @@
 
           <ng-container *ngIf="quest.type === QuestionTypes.CheckBoxList">
             <form [formGroup]="getCheckboxListForm(i)">
-              <div *ngFor="let option of quest.optionList" class="row">
+              <div
+                *ngFor="let option of quest.optionList; let optionIndex = index"
+                class="row"
+              >
                 <div class="col-12 mb-2">
                   <input
-                    [id]="'builder-checkbox-' + option"
+                    [id]="'builder-checkbox-' + optionIndex"
                     type="checkbox"
                     [formControlName]="option"
                   />
-                  <label [attr.for]="'builder-checkbox-' + option">
+                  <label [attr.for]="'builder-checkbox-' + optionIndex">
                     {{ option }}
                   </label>
                 </div>

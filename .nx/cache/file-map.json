@@ -66,16 +66,12 @@
         "hash": "2178144051909739023"
       },
       {
-        "file": ".nx/cache/d/daemon.log",
-        "hash": "11489096013761136494"
-      },
-      {
         "file": ".nx/cache/d/server-process.json",
         "hash": "13774090567192769592"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "11852798488323686799"
+        "hash": "9915284445120295274"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -272,7 +268,7 @@
       },
       {
         "file": "src/app/form/builder/builder.component.html",
-        "hash": "6645521798210309968"
+        "hash": "11291800917195467735"
       },
       {
         "file": "src/app/form/builder/builder.component.scss",
@@ -357,6 +353,10 @@
       {
         "file": "tsconfig.spec.json",
         "hash": "16287279946930924495"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/8729496345192812784",
+        "hash": "5096459187706141237"
       }
     ]
   }
